@@ -1,0 +1,9 @@
+{
+	"name": "Astral Phase",
+	"hacs": "0.24.0",
+	"domains": [
+		"sensor"
+	],
+	"iot_class": "Local",
+	"homeassistant": "0.108.0"
+}

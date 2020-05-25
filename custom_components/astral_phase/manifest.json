@@ -1,0 +1,8 @@
+{
+        "domain": "astral_phase",
+        "name": "Astral Phase sensor custom component",
+        "documentation": "",
+        "requirements": ["astral"],
+        "dependencies": ["sun"],
+        "codeowners": ["@ahknight"]
+}
