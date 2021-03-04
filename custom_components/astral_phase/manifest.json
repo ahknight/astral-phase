@@ -1,8 +1,10 @@
 {
-        "domain": "astral_phase",
-        "name": "Astral Phase sensor custom component",
-        "documentation": "",
-        "requirements": ["astral"],
-        "dependencies": ["sun"],
-        "codeowners": ["@ahknight"]
+    "domain": "astral_phase",
+    "name": "Astral Phase",
+    "version": "1.0.0",
+    "documentation": "https://github.com/ahknight/astral-phase/",
+    "issue_tracker": "https://github.com/ahknight/astral-phase/issues",
+    "requirements": ["astral"],
+    "dependencies": ["sun"],
+    "codeowners": ["@ahknight"]
 }

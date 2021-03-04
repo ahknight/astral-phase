@@ -1,0 +1,16 @@
+# Settings
+projectDirectory    = "$CWD"
+windowTitle         = "$TM_DISPLAYNAME — Astral Phase"
+exclude             = "{$exclude,._*,.git,*.pyc}"
+
+[ source.yaml ]
+softTabs         = true
+tabSize          = 2
+
+[ source.json ]
+softTabs         = true
+tabSize          = 4
+
+[ source.python ]
+softTabs         = true
+tabSize          = 4
